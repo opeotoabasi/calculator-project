@@ -1,4 +1,6 @@
 # calculator app
+def add(a, b):
+    return a + b
 
 #hmmmm
 def add(a, b):
